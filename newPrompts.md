@@ -2042,3 +2042,32 @@ She looks up at ceiling lights, raindrops on exterior glass, cinematic noir mood
 570) A woman in a **white wrap dress** poses in a **desert at golden hour**.  
 Wind lifts the fabric, she rests a hand on her hip, sun flare, warm realism, dreamy composition, 50mm.
 
+571) A woman in a **black gothic dress** poses on a **moonlit cemetery path**.  
+She holds a lantern, pale moonlight, dramatic shadows, eerie shallow depth, ultra-detailed textures, 85mm.
+
+572) A woman in a **glittering silver gown** poses beside an **indoor waterfall mist** backdrop.  
+Mist sparkles around her, dynamic light rays, glamorous styling, crisp ultra-real portrait, shallow DOF, 50mm.
+
+573) A woman in a **rust cardigan** and **neutral skirt** poses in an **autumn street**.  
+Falling leaves in foreground, warm smile, film-like grain, natural skin tones, cinematic fall lighting, 85mm.
+
+574) A woman in a **turquoise dress** poses on a **beach pier** at dusk.  
+She leans forward slightly, ocean waves behind, soft gradient sky, airy editorial look, gentle bokeh, 50mm.
+
+575) A woman in a **black sheer-sleeve dress** poses by a **window in a chic apartment**.  
+City lights bokeh behind, soft rim light, elegant posture, ultra-real texture detail, shallow DOF, 85mm.
+
+576) A woman in a **yellow sundress** poses in a **sunflower field**.  
+She twirls slowly, sunflower petals close-up, lens flare, joyful expression, high detail fabric texture, 50mm.
+
+577) A woman in a **striped sailor dress** poses near a **lighthouse shoreline**.  
+Sea breeze moves fabric, she tilts her chin playfully, maritime color palette, cinematic clarity, 50mm, crisp focus.
+
+578) A woman in a **deep purple evening dress** poses beside **tall candles** in a studio.  
+Hands folded, calm gaze, warm flame glow, high contrast lighting, subtle haze, sharp editorial portrait, 85mm.
+
+579) A woman in a **white blouse** and **red skirt** poses in a **retro diner booth**.  
+She rests her elbow on the window edge, neon menu sign bokeh behind, vintage color grading, candid smile, 35mm.
+
+580) A woman in a **black lace bodysuit** poses under **stage spotlights**.  
+She steps into the beam mid-pose, controlled expression, haze around lights, dramatic realism, crisp detail, 85mm.
