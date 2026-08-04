@@ -2071,3 +2071,626 @@ She rests her elbow on the window edge, neon menu sign bokeh behind, vintage col
 
 580) A woman in a **black lace bodysuit** poses under **stage spotlights**.  
 She steps into the beam mid-pose, controlled expression, haze around lights, dramatic realism, crisp detail, 85mm.
+
+
+581) A woman in a **cream knit dress** poses on a **snowy cabin porch** at dusk.  
+Snowflakes drift softly, warm lantern light behind, cozy mood, gentle shadow play, cinematic contrast, 85mm.
+
+582) A woman in a **blush pink gown** poses by a **carousel** with dreamy lights.  
+She looks toward camera, carousel blurred behind, magical glow, pastel bokeh, smooth skin highlight, 50mm.
+
+583) A woman in a **monochrome suit** poses in a **foggy industrial yard**.  
+She turns slightly to show profile, steel beams behind, moody haze, rim light edge, sharp fashion portrait, 50mm.
+
+584) A woman in a **white satin dress** poses in a **wedding dress showroom**.  
+She lifts the hem slightly, soft overhead lighting, delicate satin texture, bridal editorial style, shallow DOF, crisp detail.
+
+585) A woman wearing a **green military jacket** poses beside a **vintage truck** outdoors.  
+Wind tosses her hair, sunlit dust particles in air, confident gaze, rugged cinematic look, high detail, 85mm.
+
+586) A woman in a **black crop top** and **high-waist skirt** poses against a **studio graffiti wall**.  
+She points gently toward camera, playful confident smile, crisp lighting, ultra-real textures, fashion editorial, 35mm.
+
+587) A woman in a **maroon velvet dress** poses in a **wood-paneled reading room**.  
+She holds a book to her chest, warm lamp glow on her face, calm elegant expression, film grain realism, 85mm.
+
+588) A woman in a **silver chain dress** poses on a **glass staircase** with reflections.  
+She rests one hand on the railing, reflections form leading lines, ultra-modern editorial lighting, sharp focus, 50mm.
+
+589) A woman wearing a **white linen set** poses on a **balcony at dusk** with city skyline.  
+Hands relaxed on rail, wind lifts hair, natural skin tones, cinematic haze, 35mm wide portrait, smooth bokeh.
+
+590) A woman in a **black suit dress** poses in a **courtroom hallway** with marble floors.  
+She walks slowly toward the camera, confident eyes, symmetrical framing, dramatic light falloff, ultra-real shallow depth, 85mm.
+
+591) A woman in a **peach satin dress** poses by a **quiet lake** at **sunrise**.  
+Sunlight catches dress sheen, soft mist background, gentle smile, water bokeh, warm golden tones, 85mm.
+
+592) A woman in a **red Victorian dress** poses on **cobblestone streets** with warm lamps.  
+She holds an umbrella near her shoulder, side profile to camera, vintage tone mapping, dramatic contrast, 85mm.
+
+593) A woman wearing a **white bodysuit** poses in a **minimal concrete studio**.  
+She tilts chin slightly upward, strong key light, sculpted shadows, editorial contrast, sharp clarity, shallow DOF, 50mm.
+
+594) A woman in a **teal cocktail dress** poses in a **roof garden** with hanging plants.  
+She brushes fingertips along a leaf, soft backlight, serene expression, ultra-detailed fabric, crisp bokeh, 85mm.
+
+595) A woman in a **black sequin jumpsuit** poses under **club beams**.  
+One knee forward, confident smile, light streak bokeh, dynamic cinematic lighting, ultra-real texture detail, 50mm.
+
+596) A woman in a **beige trench coat** poses under **street umbrellas** in rain.  
+Neon reflections on wet pavement, visible raindrops on fabric, moody noir grading, cinematic 35mm portrait, shallow depth.
+
+597) A woman wearing a **flower crown** poses in an **orchard** in spring.  
+She turns slowly, blossoms drifting around her, soft glow on skin, dreamy shallow depth, gentle smile, 85mm.
+
+598) A woman in a **bold patterned dress** poses in a **museum courtyard** with arches.  
+Hand on waist, vibrant colors pop, crisp daylight, detailed textures, sharp focus, cinematic framing, 50mm.
+
+599) A woman in a **black turtleneck** and **wide-leg trousers** poses in a **bookstore corner**.  
+She leans on a shelf, warm light behind, calm eye contact, candid editorial portrait, shallow DOF, 35mm.
+
+600) A woman wearing a **white off-shoulder dress** poses in a **meadow of tall grass**.  
+She holds the hem, sunlight catching fabric, soft wind movement, dreamy portrait look, golden hour glow, 85mm.
+
+601) A woman wearing a **white linen dress** poses in a **sunlit courtyard** with arched stone.  
+She leans lightly on a column, soft breeze moving the hem, warm golden highlights, 50mm, cinematic realism.
+
+602) A woman in a **black suit dress** poses beside a **modern glass staircase**.  
+She angles her body in an elegant S-curve, calm gaze to camera, crisp reflections, studio-grade lighting, ultra-sharp.
+
+603) A woman in a **peach satin dress** poses by a **quiet lake** with reeds and light mist.  
+She sits at the water’s edge, gentle smile, shimmering bokeh reflections behind, golden-hour glow, 85mm.
+
+604) A woman in a **red Victorian dress** poses on a **cobblestone street** at night.  
+She holds an umbrella, lantern light warms her face, vintage film grain, side profile to camera, dramatic 85mm portrait.
+
+605) A woman wearing a **white bodysuit** poses in a **minimal concrete studio**.  
+She arches slightly, strong key light sculpting shadows, clean editorial framing, high contrast, sharp detail, shallow DOF.
+
+606) A woman in a **teal cocktail dress** poses inside a **roof garden** with hanging greenery.  
+She touches a leaf, soft backlight through leaves, serene confident expression, ultra-detailed fabric texture, crisp bokeh, 85mm.
+
+607) A woman in a **black sequin jumpsuit** poses under **laser-style light strips**.  
+She steps into the beam, one knee forward, confident smile, motion-softened realism, dramatic club lighting flare, 50mm.
+
+608) A woman in a **beige trench coat** poses on a **rainy street** under neon signs.  
+Raindrops bead on fabric, neon puddle reflections glow behind, noir cinematic palette, she adjusts her collar, 35mm.
+
+609) A woman wearing a **flower crown** poses in an **orchard** with blossoms.  
+She turns slowly, petals drifting in the breeze, soft warm glow on skin, dreamy shallow depth, gentle smile, 85mm.
+
+610) A woman in a **bold patterned dress** poses in a **museum courtyard** with arches.  
+Hand on waist, vibrant colors pop, crisp midday light, detailed fabric weave, sharp focus, editorial composition, 50mm.
+
+611) A woman wearing a **black turtleneck** and **wide-leg trousers** poses in a **bookstore aisle**.  
+She pulls a book halfway out, half-smile to camera, warm overhead lighting, candid lifestyle vibe, shallow DOF, 35mm.
+
+612) A woman in a **maroon velvet dress** poses in a **wood-paneled reading room**.  
+She holds a book to her chest, calm elegant expression, warm lamp highlights, filmic tones, film grain realism, 85mm.
+
+613) A woman in a **silver chain dress** poses on a **glass staircase** in a skyscraper lobby.  
+Diagonal stance with reflections guiding the eye, crisp studio lighting, ultra-modern editorial look, sharp focus, bokeh.
+
+614) A woman in a **cream knit dress** poses on **snowy steps** outside a cabin.  
+Snow texture in foreground, warm light on her face, cozy mood, gentle wind movement, cinematic grain, 50mm.
+
+615) A woman in a **blush pink gown** poses in a **night market** with soft lantern bokeh.  
+She walks slowly, fingers lightly holding fabric, warm pastel highlights, shallow DOF, cinematic street portrait, 35mm.
+
+616) A woman in a **monochrome suit** poses in a **foggy warehouse** with steel racks.  
+She stands tall, hands relaxed, thick haze around lights, rim-lit silhouette, fashion editorial sharpness, 50mm.
+
+617) A woman in a **white satin dress** poses inside a **boutique showroom** with mirrors.  
+She leans forward slightly, mirror reflections multiply, soft premium lighting, bridal editorial sharp detail, shallow DOF, 85mm.
+
+618) A woman wearing a **green military jacket** poses beside a **vintage aircraft hangar**.  
+She rests a hand on a strap, wind-tossed hair, sunlit dust particles, rugged cinematic look, high detail, 85mm.
+
+619) A woman in a **black crop jacket** and **high-waist skirt** poses in a **graffiti underpass**.  
+She leans against brick, playful confident smile, dramatic contrast, ultra-real textures, 35mm.
+
+620) A woman in a **gold lamé dress** poses beside **crystal chandeliers**.  
+She spins mid-motion, sparkly highlights catching light, elegant posture, warm ballroom illumination, high detail fabric folds, 85mm.
+
+621) A woman in a **sage green satin dress** poses in a **greenhouse** filled with ferns.  
+She touches a leaf, soft backlight through foliage, delicate shadows, serene expression, ultra-detailed portrait, 85mm.
+
+622) A woman in a **striped sweater** and **red skirt** poses at a **train station platform**.  
+Trains blur behind her, she faces camera with confident smile, natural daylight, candid realism, 50mm.
+
+623) A woman in a **dramatic red ball gown** poses on **marble steps** in a palace interior.  
+One hand on railing, regal chin lift, warm cinematic lighting, detailed fabric folds, 85mm portrait, shallow DOF.
+
+624) A woman wearing **techwear** poses on a **rooftop helipad** in storm clouds.  
+She crouches slightly, wind moving clothing, minimalist stance, moody realism, sharp lens, cinematic grading, 35mm.
+
+625) A woman wearing a **white turtleneck** and **long black skirt** poses in a **minimal hallway**.  
+She walks toward the light source, long shadows stretching behind, neutral palette, crisp cinematic framing, 50mm.
+
+626) A woman in a **bohemian floral dress** poses at a **craft market** with colorful tents.  
+She holds a small basket, relaxed hands, warm sunlight, shallow DOF, candid lifestyle portrait, 35mm.
+
+627) A woman in a **kimono-inspired robe** with black-and-gold embroidery poses in a **traditional Japanese garden**.  
+Lantern glow behind, serene expression, gentle wave gesture, detailed robe folds, 85mm portrait, soft bokeh.
+
+628) A woman in a **lavender dress** poses in a **soft studio** with floating balloon-like shapes.  
+She holds strings lightly, pastel lighting, gentle smile, smooth skin highlights, editorial bokeh, 50mm.
+
+629) A woman in a **raincoat** poses on an **empty subway platform** with glass reflections.  
+She looks up at ceiling lights, raindrops on exterior glass, cinematic noir mood, long-lens portrait, 85mm.
+
+630) A woman in a **white wrap dress** poses in a **desert at golden hour**.  
+Wind lifts the fabric, she rests a hand on her hip, sun flare, warm realism, dreamy composition, 50mm.
+
+631) A woman in a **black gothic dress** poses on a **moonlit cemetery path**.  
+She holds a lantern, pale moonlight, dramatic shadows, eerie depth, ultra-detailed textures, 85mm.
+
+632) A woman wearing a **glittering silver gown** poses beside an **indoor waterfall mist** backdrop.  
+Mist sparkles around her, dynamic light rays, glamorous styling, crisp ultra-real portrait, shallow DOF, 50mm.
+
+633) A woman in a **rust cardigan** and **neutral skirt** poses in an **autumn street** scene.  
+Falling leaves in foreground, warm smile, film-like grain, natural skin tones, cinematic fall lighting, 85mm.
+
+634) A woman in a **turquoise dress** poses on a **beach pier** at dusk.  
+She leans forward slightly, ocean waves behind, soft gradient sky, airy editorial look, gentle bokeh, 50mm.
+
+635) A woman in a **black sheer-sleeve dress** poses by a **window in a chic apartment**.  
+City lights bokeh behind, soft rim light, elegant posture, ultra-real texture detail, shallow DOF, 85mm.
+
+636) A woman in a **yellow sundress** poses in a **sunflower field**.  
+She twirls slowly, sunflower petals close-up, lens flare, joyful expression, high detail fabric texture, 50mm.
+
+637) A woman in a **striped sailor dress** poses near a **lighthouse shoreline**.  
+Sea breeze moves fabric, she tilts her chin playfully, maritime color palette, cinematic clarity, 50mm.
+
+638) A woman in a **deep purple evening dress** poses beside **tall candles** in a studio.  
+Hands folded, calm gaze, warm flame glow, high contrast lighting, subtle haze, sharp editorial portrait, 85mm.
+
+639) A woman in a **white blouse** and **red skirt** poses in a **retro diner booth**.  
+She rests her elbow on the window edge, neon menu sign bokeh behind, vintage color grading, candid smile, 35mm.
+
+640) A woman in a **black lace bodysuit** poses under **stage spotlights**.  
+She steps into the beam mid-pose, controlled expression, haze around lights, dramatic realism, crisp detail, 85mm.
+
+
+641) Pose: standing front-facing, slight hip shift, one hand brushing hair behind ear, soft confident smile.  
+Surroundings: modern cafe window wall, rainy street bokeh, morning light streaks.  
+Costume: long cardigan over fitted turtleneck, high-waist skirt, ankle boots.
+
+642) Pose: walking pose, turned 3/4 toward camera, one arm reaching upward as if adjusting sunglasses.  
+Surroundings: palm-lined boulevard, bright midday sun, lens flare.  
+Costume: white sundress with ruffled hem, straw hat, layered necklaces.
+
+643) Pose: seated on subway steps, legs angled to the side, elbows on knees, thoughtful gaze.  
+Surroundings: underground station with steel beams and overhead lights.  
+Costume: leather jacket, graphic tee, skinny jeans, colorful sneakers.
+
+644) Pose: leaning against a brick wall, one shoulder forward, hands in jacket pockets, playful smirk.  
+Surroundings: graffiti alley with neon spill on wet pavement.  
+Costume: oversized bomber, crop top, cargo pants, combat boots.
+
+645) Pose: hands clasped at waist, chin slightly down, slow eye contact with the camera, calm expression.  
+Surroundings: minimalist gallery room, spotlight circle on floor.  
+Costume: satin midi slip dress, sheer shawl, delicate drop earrings.
+
+646) Pose: dynamic spin mid-motion, one hand extended outward, hair moving with the turn.  
+Surroundings: ballroom hall with chandeliers, swirling light trails.  
+Costume: flowing satin gown, opera gloves, jeweled hairpin.
+
+647) Pose: kneeling pose, one hand resting on thigh, torso upright, gentle smile looking up.  
+Surroundings: forest clearing, sunbeams through trees, soft dust in air.  
+Costume: boho embroidered dress, lace-up boots, flower crown.
+
+648) Pose: overhead-gesture pose, one arm raised diagonally, the other relaxed by side, eyes following raised hand.  
+Surroundings: rooftop at golden hour, city skyline haze, wind-blown fabric.  
+Costume: athletic set (bra + leggings), cropped windbreaker, hoop earrings.
+
+649) Pose: lying on side on a lounge sofa, one elbow supporting head, relaxed gaze toward camera.  
+Surroundings: luxury hotel suite, floor-to-ceiling curtains, warm ambient lighting.  
+Costume: silk robe over camisole, satin shorts, delicate necklace.
+
+650) Pose: close portrait stance, shoulders angled, hand on collarbone, subtle smirk, eyes bright.  
+Surroundings: studio backdrop with soft gradient lighting and faint shadow falloff.  
+Costume: tailored blazer and pencil skirt set, satin blouse, classic pumps.
+
+651) Pose: standing profile (3/4 view), hands folded behind back, chin level, serene expression.  
+Surroundings: quiet library aisle, tall shelves blurred, soft window light shafts.  
+Costume: wool coat, turtleneck sweater, midi skirt, leather ankle boots.
+
+652) Pose: seated on a staircase, one knee up, one hand on the rail, playful look toward camera.  
+Surroundings: old townhouse interior with warm sconces, dust motes in light.  
+Costume: patterned blouse tucked into high-waist trousers, slim belt, small hoop earrings.
+
+653) Pose: leaning forward slightly, one hand lightly touching lips, eyes half-lidded.  
+Surroundings: neon-lit street at night, wet asphalt reflections, light fog.  
+Costume: slip dress with mesh overlay, long coat draped, platform heels.
+
+654) Pose: arms raised overhead as if stretching, torso elongated, joyful gaze upward.  
+Surroundings: bright studio with large windows, soft daylight and minimal shadows.  
+Costume: ribbed matching set (sports bra + leggings), headband, minimal jewelry.
+
+655) Pose: standing with one hand on hip, the other extended toward camera, confident smile.  
+Surroundings: flower market walkway, colorful stalls blurred, gentle background bokeh.  
+Costume: sundress with floral print, denim jacket, ankle-strap sandals.
+
+656) Pose: walking pose with a mid-step turn, one shoulder leading, eyes looking back.  
+Surroundings: seaside promenade, wind in hair, waves softly streaked in background.  
+Costume: striped maxi dress, light cardigan, sunglasses, hoop earrings.
+
+657) Pose: sitting on the edge of a fountain, legs crossed, relaxed posture, calm smile.  
+Surroundings: european-style plaza, stone texture, soft evening ambience.  
+Costume: fitted knit top, pleated skirt, tights, ballet flats.
+
+658) Pose: hands framing face (fingers near cheeks), head tilt, bright expressive eyes.  
+Surroundings: pastel room with gradient wall, soft shadow under chin.  
+Costume: off-shoulder blouse, high-waist skirt, ribbon hair clip, small pendant necklace.
+
+659) Pose: crouching low, one hand touching the ground, eyes looking straight into lens.  
+Surroundings: autumn park with fallen leaves swirling lightly, golden backlight.  
+Costume: chunky sweater, skirt or skinny jeans, beanie, suede boots.
+
+660) Pose: slow sway stance, one hand holding strap of bag at shoulder, gentle smile.  
+Surroundings: train station platform, timetable lights bokeh, steel rails receding.  
+Costume: long trench coat, sweater dress, scarf, knee-high boots.
+
+661) Pose: lying back on a rooftop deck, one elbow supporting, gaze toward sky then camera.  
+Surroundings: city skyline sunset, warm orange gradient, soft clouds.  
+Costume: oversized hoodie dress, thigh socks, simple chain necklace.
+
+662) Pose: standing in a doorway frame, one shoulder against wall, arms relaxed, subtle smirk.  
+Surroundings: vintage hotel hallway, patterned wallpaper, warm lamp light.  
+Costume: satin blouse, tailored trousers, belt, pointed-toe heels.
+
+663) Pose: seated cross-legged, hands resting on knees, peaceful expression, direct eye contact.  
+Surroundings: zen corner with plants, floating lanterns, soft floor cushions.  
+Costume: flowy wrap dress, light shawl, simple bracelet stack.
+
+664) Pose: twisting at waist, one arm behind back, other hand on shoulder, playful gaze.  
+Surroundings: street mural wall, colorful paint, shallow depth of field.  
+Costume: crop jacket, high-waist jeans, graphic tee, chunky sneakers.
+
+665) Pose: standing side pose with weight on back leg, one hand sliding down hair, dreamy look.  
+Surroundings: countryside road, tall grass and distant hills, wind-blown fabric.  
+Costume: bohemian blouse, peasant skirt, corset belt, long necklace.
+
+666) Pose: seated at a bar counter, leaning slightly forward, chin up, confident smile.  
+Surroundings: dim cocktail lounge, warm amber lights, blurred patrons.  
+Costume: fitted blazer, lace bodysuit, skinny trousers, strappy heels.
+
+667) Pose: standing with arms crossed, slight head tilt, direct gaze, confident calm.  
+Surroundings: minimalist studio wall, soft shadow gradients, neutral background.  
+Costume: tailored blazer with shoulder pads, silk camisole, pencil skirt, heeled boots.
+
+668) Pose: one knee bent, body angled, one hand resting on the other wrist, coy smile.  
+Surroundings: art deco corridor, geometric floor tiles, warm spotlight.  
+Costume: vintage-inspired dress with belt, long gloves, pearl earrings.
+
+669) Pose: leaning against a wooden fence, hand on chin, thoughtful eyes toward camera.  
+Surroundings: rustic farm field, golden evening light, distant barn silhouette.  
+Costume: denim shirt tied at waist, knit dress underneath, cowboy boots.
+
+670) Pose: walking straight while looking sideways, one hand holding bag strap, relaxed expression.  
+Surroundings: city crosswalk, morning traffic blur, soft overcast sky.  
+Costume: oversized sweater, midi skirt, tights, sneakers.
+
+671) Pose: standing overhead stretch, fingers reaching upward, bright smile.  
+Surroundings: bright airy window room, sheer curtains billowing slightly.  
+Costume: airy blouse, layered skirt, light cardigan, delicate necklaces.
+
+672) Pose: sitting on a low wall, legs apart slightly, elbows on knees, playful expression.  
+Surroundings: beach boardwalk, ocean horizon, light wind and soft foam background.  
+Costume: off-shoulder blouse, high-waist shorts, wide belt, sandals.
+
+673) Pose: hands behind back with gentle arch, chin lifted, elegant posture.  
+Surroundings: grand museum staircase, marble, dramatic directional lighting.  
+Costume: long evening gown with subtle sparkle, opera-length earrings, satin clutch.
+
+674) Pose: close portrait with hand brushing collar, eyes soft and slightly smiling.  
+Surroundings: dark moody studio backdrop with rim light, shallow depth.  
+Costume: black turtleneck bodysuit, leather skirt, thin belt, boots.
+
+675) Pose: kneeling with one leg tucked, torso upright, one hand open near waist, serene gaze.  
+Surroundings: quiet chapel interior, tall windows with stained light.  
+Costume: lace dress, cropped shawl, ankle boots, simple headband.
+
+676) Pose: reclining on a sofa backrest, one arm draped, looking over shoulder to camera.  
+Surroundings: cozy living room, warm lamp glow, bookshelves blurred.  
+Costume: knit cardigan, camisole, high-waist trousers, slippers.
+
+677) Pose: dynamic jump mid-air, knees slightly bent, arms outward, joyful face.  
+Surroundings: park meadow, bright midday sun, soft motion blur background.  
+Costume: sporty romper, windbreaker, running shoes, headband.
+
+678) Pose: standing 3/4, one hand pulling a sleeve up, gaze to camera, confident smirk.  
+Surroundings: street at night, neon signs reflected on wet pavement.  
+Costume: bomber jacket, graphic crop top, cargo pants, chunky sneakers.
+
+679) Pose: seated on a swing, slight sway, hair caught by breeze, warm smile.  
+Surroundings: garden with hanging lanterns, dusk sky gradient, bokeh lights.  
+Costume: flowing floral dress, cardigan, ankle strap sandals.
+
+680) Pose: hands on hips, elbows out slightly, strong stance, direct confident look.  
+Surroundings: industrial warehouse with skylight beams, high contrast shadows.  
+Costume: leather jacket, graphic tee, skinny jeans, combat boots.
+
+681) Pose: leaning on a railing, one hand gripping lightly, eyes distant then to camera.  
+Surroundings: bridge overlook, river far below, cloudy sunset sky.  
+Costume: trench coat, long dress slip, scarf, boots.
+
+682) Pose: seated with legs crossed at ankle, torso leaning forward slightly, gentle smile.  
+Surroundings: café table setting, steam rising from drink, warm bokeh lights.  
+Costume: button-up blouse, pleated skirt, knee-high socks, mary janes.
+
+683) Pose: lying on back on a grass hill, head turned to camera, soft dreamy eyes.  
+Surroundings: open field with wildflowers, late golden hour, sun rays flaring.  
+Costume: boho dress, flower crown, light scarf, sandals.
+
+684) Pose: twisting shoulders, one hand pulling hair back, playful glance over camera.  
+Surroundings: street wall covered in murals, bright colors, shallow DOF.  
+Costume: crop hoodie, high-waist jeans, layered chain necklaces.
+
+685) Pose: standing with one hand at forehead as if shielding eyes, laughing smile.  
+Surroundings: bright seaside promenade, strong sun, sparkling sea blur.  
+Costume: white linen shirt half-tucked, flowy skirt, straw hat, sunglasses.
+
+686) Pose: seated at a vanity stool, hands adjusting earrings, poised expression.  
+Surroundings: vintage dressing room, round mirror glow, soft shadows.  
+Costume: satin slip dress, embroidered robe draped over chair, heels.
+
+687) Pose: standing side-lit, one arm reaching across body, gaze toward light source.  
+Surroundings: minimalist window with blinds, long stripe shadows on floor.  
+Costume: tailored jumpsuit, waist belt, subtle jewelry, heeled sandals.
+
+688) Pose: walking backward slowly, arms slightly raised, eyes playful.  
+Surroundings: glowing night street with streetlights and light trails.  
+Costume: flowing maxi coat, fitted dress, tights, ankle boots.
+
+689) Pose: kneeling near stairs, one hand on step, other hand resting at waist, soft gaze.  
+Surroundings: stone steps in an old courtyard, ivy and warm evening light.  
+Costume: sweater dress, belt, long socks, lace-up boots.
+
+690) Pose: standing in front of an open window, hands holding curtain edge, dreamy look.  
+Surroundings: airy room with sunlight beams, plants on sill, soft dust particles.  
+Costume: lace camisole, light cardigan, high-waist skirt, hairband.
+
+691) Pose: leaning forward slightly, one hand supporting chin, eyes locked to camera.  
+Surroundings: smoky lounge, cinematic lighting, dark background with haze.  
+Costume: velvet blazer, silk top, wide-leg trousers, statement earrings.
+
+692) Pose: sitting on a park bench, one leg crossed over the other, relaxed smile.  
+Surroundings: tree-lined path, gentle breeze, soft bokeh leaves.  
+Costume: striped sweater, pleated skirt, tights, sneakers or boots.
+
+693) Pose: hands behind back, shoulders relaxed, subtle smirk, calm confident eyes.  
+Surroundings: modern gallery steps, clean lines, neutral tones, soft overhead lights.  
+Costume: monochrome set (top + skirt), structured jacket, minimal jewelry.
+
+694) Pose: standing with one hand touching cheek, head tilted, gentle dreamy expression.  
+Surroundings: cherry blossom street, petals drifting, light wind.  
+Costume: romantic dress with puff sleeves, ribbon belt, ballet flats.
+
+695) Pose: seated on a rooftop ledge, legs hanging slightly, looking down then at camera.  
+Surroundings: downtown skyline far below, dusk gradient sky.  
+Costume: off-shoulder sweater, bodycon skirt, thigh-high boots, small earrings.
+
+696) Pose: stepping over a small puddle, one arm balancing, bright playful face.  
+Surroundings: rainy alley, reflections, streetlights halos.  
+Costume: waterproof trench coat, knit dress, rubber boots, umbrella.
+
+697) Pose: lying prone on a studio floor, forearms supporting upper body, confident gaze.  
+Surroundings: textured backdrop, dramatic spotlight, soft grainy light.  
+Costume: sporty bodysuit, high-cut leggings, wristbands.
+
+698) Pose: standing with hand on shoulder as if “turning away,” looking back at camera.  
+Surroundings: museum hallway with paintings, soft focus frames behind.  
+Costume: fitted knit dress, cropped jacket, heeled ankle boots.
+
+699) Pose: arms out slightly like a slow dance, smiling eyes, relaxed shoulders.  
+Surroundings: ballroom with chandeliers, polished floor, soft swirl lights.  
+Costume: silk midi gown, delicate hair pin, satin gloves.
+
+700) Pose: close-up with both hands gently holding a necklace at collarbone, warm smile.  
+Surroundings: dark floral wallpaper studio set, soft ring light bokeh.  
+Costume: satin blouse, tailored trousers, pendant necklace, earrings.
+
+701) Pose: standing with one hand in hair, head slightly tilted, calm smile.  
+Surroundings: quiet bookstore aisle, dust motes in window light, soft vignette.  
+Costume: cozy cardigan over fitted top, high-waist jeans, ankle boots.
+
+702) Pose: seated on a swing bench, one leg bent, looking past camera with a soft grin.  
+Surroundings: garden with hanging lights, dusk blue sky, gentle bokeh.  
+Costume: chiffon dress, thin belt, sandals, small earrings.
+
+703) Pose: standing 3/4 view, arms relaxed, subtle confident smirk.  
+Surroundings: modern office atrium, glass railings, sun rays through panels.  
+Costume: tailored blazer, satin camisole, midi skirt, heeled loafers.
+
+704) Pose: walking pose with one hand holding strap, gaze directly into lens.  
+Surroundings: city street with crosswalk lines, overcast light, shallow DOF.  
+Costume: oversized sweater, pleated skirt, tights, sneakers.
+
+705) Pose: hands behind back, chin up slightly, elegant posture.  
+Surroundings: marble lobby with distant archways and warm ceiling lights.  
+Costume: long coat, fitted turtleneck, wide-leg trousers, belt.
+
+706) Pose: standing with one shoulder forward, one hand resting on hip, playful eye contact.  
+Surroundings: rooftop garden, skyline haze, wind moving hair.  
+Costume: wrap dress, denim jacket, hoop earrings, flats.
+
+707) Pose: seated on floor against wall, legs folded to one side, soft smile.  
+Surroundings: minimalist interior, textured plaster wall, natural window light.  
+Costume: knit set (top + skirt), light scarf, layered rings.
+
+708) Pose: dramatic leaning pose with hip popped, one arm raised across hair.  
+Surroundings: neon-lit street at night, rain reflections, light fog.  
+Costume: leather jacket, mesh top, high-waist shorts, boots.
+
+709) Pose: kneeling with one hand on thigh, gentle gaze upward.  
+Surroundings: flower path with scattered petals, golden sunset rays.  
+Costume: lace dress, cropped cardigan, ribbon headband.
+
+710) Pose: reclining on a bed with one elbow propped, looking over shoulder to camera.  
+Surroundings: sunlit bedroom, sheer curtains, soft warm shadows.  
+Costume: silky robe over camisole, satin shorts, delicate necklace.
+
+711) Pose: standing side profile, hand near collarbone, dreamy expression.  
+Surroundings: museum gallery with spotlights, polished floor reflections.  
+Costume: satin blouse, pencil skirt, thin belt, heels.
+
+712) Pose: walking down steps, mid-turn toward camera, bright smile.  
+Surroundings: historic stairway, stone texture, morning light.  
+Costume: fitted sweater, long skirt, scarf, ankle boots.
+
+713) Pose: seated at outdoor café table, chin resting lightly on one hand.  
+Surroundings: sidewalk street scene, blurred pedestrians, warm bokeh.  
+Costume: blouse with rolled sleeves, high-waist trousers, crossbody bag.
+
+714) Pose: standing with arms crossed, confident stare, strong posture.  
+Surroundings: industrial wall with graffiti stripes, harsh side light.  
+Costume: bomber jacket, graphic tee, skinny jeans, combat boots.
+
+715) Pose: hands gently touching face, head tilted, soft eyes.  
+Surroundings: studio backdrop with gradient light, faint shadow falloff.  
+Costume: off-shoulder blouse, pleated skirt, simple pendant earrings.
+
+716) Pose: stepping sideways, one hand extended outward, laughing expression.  
+Surroundings: beach shoreline at golden hour, waves blurred, sea wind.  
+Costume: breezy sundress, light wrap, bracelets, barefoot or sandals.
+
+717) Pose: sitting cross-legged on a yoga mat, hands behind back, calm smile.  
+Surroundings: sunlit studio with plants, airy curtains, soft shadows.  
+Costume: sports bra + leggings, oversized hoodie, hair pulled back.
+
+718) Pose: standing with one foot slightly forward, weight shift, direct gaze.  
+Surroundings: art wall with colorful murals, shallow DOF, bright colors.  
+Costume: cropped jacket, graphic skirt, chunky sneakers.
+
+719) Pose: overhead stretch with one arm reaching, joyful eyes upward.  
+Surroundings: bright window room, sheer curtains, morning light shafts.  
+Costume: ribbed matching set, headband, layered necklaces.
+
+720) Pose: leaning against a streetlamp pole, one hand in pocket, smirk.  
+Surroundings: quiet nighttime street, streetlights halos, light rain.  
+Costume: long coat, turtleneck top, skinny jeans, boots.
+
+721) Pose: seated on stone ledge, legs angled forward, looking at camera.  
+Surroundings: ancient courtyard, ivy, warm evening glow.  
+Costume: vintage-inspired dress, lace-up boots, small clutch.
+
+722) Pose: standing with hands on hips, confident stance, chin level.  
+Surroundings: open field with tall grass, wind-blown hair, cinematic sky.  
+Costume: fitted corset-style top, maxi skirt, belt, boots.
+
+723) Pose: walking with arms slightly behind, eyes focused ahead.  
+Surroundings: subway platform, steel beams, motion blur background.  
+Costume: coat dress, scarf, knee-high boots.
+
+724) Pose: kneeling with one knee down, one foot forward, one hand extended.  
+Surroundings: minimalist showroom, soft spotlight circle on floor.  
+Costume: tailored jumpsuit, heels, statement earrings.
+
+725) Pose: reclining on a terrace daybed, one arm behind head, serene gaze.  
+Surroundings: skyline terrace at sunset, orange gradient sky, bokeh lights.  
+Costume: linen co-ord (top + shorts), sunglasses, bangles.
+
+726) Pose: standing 3/4 view, fingers brushing earrings, subtle smile.  
+Surroundings: luxury hotel lobby, marble columns, warm chandelier glow.  
+Costume: elegant satin gown, light shawl, heels.
+
+727) Pose: seated on stairs, one hand holding book, playful glance.  
+Surroundings: old library staircase, warm lamplight, soft shadows.  
+Costume: knit cardigan, blouse, pleated skirt, flats.
+
+728) Pose: standing with one hand holding a scarf, looking toward scarf direction.  
+Surroundings: windy waterfront promenade, waves and sky softly blurred.  
+Costume: trench coat, knit sweater, midi skirt, scarf.
+
+729) Pose: leaning forward slightly, hand near waist, intense eye contact.  
+Surroundings: dark studio with spotlight, smoky haze, high contrast.  
+Costume: velvet top, leather skirt, waist belt, boots.
+
+730) Pose: sitting on a curb, legs extended, chin down, thoughtful expression.  
+Surroundings: alley with warm neon signs, shallow DOF, light mist.  
+Costume: hoodie dress, denim jacket tied around waist, sneakers.
+
+731) Pose: standing side pose with one hand on thigh, head turned to camera.  
+Surroundings: modern gallery room, clean lines, cool overhead lighting.  
+Costume: structured blazer dress, tights, pointed pumps.
+
+732) Pose: hands framing waist, shoulders relaxed, gentle smile.  
+Surroundings: flower market stall, colorful blooms blurred behind.  
+Costume: floral dress, lightweight cardigan, sandals.
+
+733) Pose: walking mid-step with hair flowing, looking back over shoulder.  
+Surroundings: field path, golden sunlight, soft lens flare.  
+Costume: maxi dress with belt, long earrings, scarf.
+
+734) Pose: sitting at vanity stool, one hand adjusting earrings, poised eyes.  
+Surroundings: vintage dressing room, mirror glow, warm shadows.  
+Costume: satin slip dress, robe on chair, heels.
+
+735) Pose: standing with both hands lightly behind head, relaxed smile.  
+Surroundings: airy living room, neutral palette, daylight through blinds.  
+Costume: oversized sweater, leggings or slim pants, socks, minimal jewelry.
+
+736) Pose: kneeling with hands folded in front, head tilted, tender expression.  
+Surroundings: chapel interior with tall stained-light windows.  
+Costume: lace midi dress, cropped bolero, ankle boots.
+
+737) Pose: leaning against subway wall, one shoulder up, slight smirk.  
+Surroundings: subway tunnel, overhead lights streak, motion blur.  
+Costume: bomber jacket, graphic tee, skinny jeans, sneakers.
+
+738) Pose: seated on ledge overlooking water, legs dangling, soft smile.  
+Surroundings: riverside at dusk, city lights bokeh, calm atmosphere.  
+Costume: knit sweater, satin skirt, boots, light necklace.
+
+739) Pose: standing with arms crossed but relaxed, looking slightly off-camera.  
+Surroundings: contemporary rooftop with minimal skyline elements.  
+Costume: minimalist jumpsuit, belt, earrings, heeled sandals.
+
+740) Pose: reclining on a sofa in a studio set, one arm draped, gaze to camera.  
+Surroundings: soft gradient background, controlled studio light.  
+Costume: silk camisole, wide-leg trousers, delicate chain.
+
+741) Pose: standing with one hand on chest, fingers relaxed, warm expression.  
+Surroundings: spring orchard, soft blossoms, sun rays through branches.  
+Costume: puff-sleeve dress, ribbon belt, pearl earrings.
+
+742) Pose: walking under an archway, mid-turn, bright eyes.  
+Surroundings: old European street, stone arches, warm sunlight.  
+Costume: linen shirt dress, belt, flat sandals.
+
+743) Pose: seated with legs crossed, one hand resting on knee, calm stare.  
+Surroundings: café window seat, city rain on glass, bokeh streetlights.  
+Costume: knit sweater, midi skirt, tights, ankle boots.
+
+744) Pose: standing with hands gently holding sleeves, shy smile.  
+Surroundings: minimalist studio, soft backlight, clean backdrop.  
+Costume: pastel turtleneck, pleated skirt, cardigan, small earrings.
+
+745) Pose: dramatic side-lean with one hand extended, confident expression.  
+Surroundings: rooftop at dusk, wind-blown hair, city lights glow.  
+Costume: off-shoulder evening dress, corset belt, heels.
+
+746) Pose: seated on stool at bar, chin resting on hand, slow smile.  
+Surroundings: cocktail lounge, warm amber lights, bokeh highlights.  
+Costume: blazer over lace top, skinny trousers, strappy heels.
+
+747) Pose: kneeling with one hand on ground, other hand at waist, gaze strong.  
+Surroundings: rocky cliffside overlook, windy sea air, cinematic sky.  
+Costume: fitted long-sleeve top, leather skirt, boots.
+
+748) Pose: standing with one hand brushing hair near temple, playful smile.  
+Surroundings: street mural wall, bright colors, shallow DOF.  
+Costume: cropped jacket, graphic tee, high-waist jeans, sneakers.
+
+749) Pose: walking in front of train tracks, looking to camera, determined face.  
+Surroundings: station platform, train lights blurred, dramatic perspective.  
+Costume: coat, turtleneck sweater, pencil skirt, knee-high boots.
+
+750) Pose: close portrait, hand at collar, slight smirk, direct gaze.  
+Surroundings: dark moody studio, rim light on hair, soft haze.  
+Costume: fitted turtleneck bodysuit, leather pants, earrings.
+
